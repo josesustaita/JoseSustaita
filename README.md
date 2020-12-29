@@ -29,7 +29,7 @@ I’m currently looking for opportunties and am willing to relocate!
 
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/ishacker_net)
+- [Twitter](https://twitter.com/JoseSustaitaJr)
 - [LinkedIn](https://www.linkedin.com/in/josesustaita/)
 - josesustaita70@email.com
 
