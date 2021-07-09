@@ -31,6 +31,6 @@ I’m a software developer based in Denver
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/JoseSustaitaJr)
 - [LinkedIn](https://www.linkedin.com/in/josesustaita/)
-- josesustaita70@email.com
+- josesustaita70@gmail.com
 
 
