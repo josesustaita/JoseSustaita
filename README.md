@@ -3,7 +3,7 @@
 </p>
 
 ### 👋 Hey Guys I'm Jose Sustaita
-I’m a software developer based in Denver
+I’m a software Engineer based in Denver
 
 <img align='right' src='https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif' width='300"'>
 
