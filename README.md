@@ -29,7 +29,7 @@ I’m a software Engineer based in Florida
 
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/JoseSustaitaJr)
+- [Twitter](https://twitter.com/mista_world)
 - [LinkedIn](https://www.linkedin.com/in/josesustaita/)
 - josesustaita70@gmail.com
 
