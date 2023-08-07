@@ -23,14 +23,8 @@ I’m a software Engineer based in Florida
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/JoseSustaita)](https://github.com/JoseSustaita)
 
 
-### 🏆 Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=JoseSustaita&show_icons=true&hide_border=true)
-
-
-
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/mista_world)
 - [LinkedIn](https://www.linkedin.com/in/josesustaita/)
-- josesustaita70@gmail.com
 
 
