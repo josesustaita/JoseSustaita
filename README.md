@@ -8,7 +8,6 @@ I’m a software Engineer based in Florida
 <img align='right' src='https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif' width='300"'>
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/mista_world)
 - [LinkedIn](https://www.linkedin.com/in/josesustaita/)
 
 
